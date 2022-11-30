@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name_test": "Equipo",
+    "description": "finalidad de avance",
+    "text_result": "texto de ejemplo",
+    "area_test": [
+      {
+        "id": 0,
+        "title_area": "Elementos do Negocio",
+        "factor": 0.5
+      }
+    ]
+}
